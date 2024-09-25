@@ -99,12 +99,12 @@ Button
 -----------------------------------------------------------------------*/
 
 .button {
-    background: #007bff;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035bd 0%, #007bff 100%);
-    background: linear-gradient(135deg, #007bff 0%, #0035bd 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
-    border: 2px solid #007bff;
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
+    border: 2px solid #8343FF;
     color: #ffffff;
     padding: 15px 40px;
     display: inline-block;
@@ -120,24 +120,24 @@ Button
 
 .button:hover {
     background: #ffffff;
-    border: 2px solid #0035BD;
-    color: #0035BD;
+    border: 2px solid #8343FF;
+    color: #8343FF;
     top: -5px;
 }
 
 .button.brd {
     background: transparent;
-    border: 2px solid #0035BD;
-    color: #0035BD;
+    border: 2px solid #8343FF;
+    color: #8343FF;
   
 }
 
 .button.brd:hover {
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
     color: #ffffff !important;
 }
 
@@ -187,7 +187,7 @@ Back to Top
     position: fixed;
     margin: 0px;
     color: #ffffff;
-    background: #1f4fe0;
+    background: #8343FF;
     position: fixed;
     bottom: 25px;
     right: 25px;
@@ -206,11 +206,11 @@ Back to Top
 }
 
 #back-to-top .top:hover {
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
     color: #ffffff;
     -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
@@ -242,7 +242,7 @@ Title
 }
 
 .title-box .title:after {
-    /* background: #0035BD; */
+    /* background: #8343FF; */
     height: 8px;
     width: 100%;
     position: absolute;
@@ -253,7 +253,7 @@ Title
 }
 
 .title-box .sub-title {
-    color: #adadad;
+    color: #535353;
     font-size: 16px;
     margin-top: 20px;
     padding: 0 300px;
@@ -278,8 +278,8 @@ Breadcrumbs
     height: 250px;
     margin: auto;
     position: relative;
-    background-color: #0035BD;
-    background-image: linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
+    background-color: #8343FF;
+    background-image: linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
     animation: one-animated 10s infinite;
@@ -334,7 +334,7 @@ Breadcrumbs
 .breadcrumbs ul li a {
     font-size: 18px;
     text-decoration: none;
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .breadcrumbs .circle {
@@ -406,7 +406,7 @@ header.menu-sticky {
 }
 
 header.menu-sticky .button.brd {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 header.menu-sticky .button.brd:hover {
@@ -432,7 +432,7 @@ header .navbar-expand-lg {
 }
 
 header .navbar-light .navbar-nav .nav-item:hover a, header .navbar-light .navbar-nav .nav-item.active a {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 /*---------------------------------------------------------------------
@@ -463,15 +463,15 @@ Banner
 .banner .banner-text p {
     font-weight: 600;
     line-height: 32px;
-    color: #8a8a8a;
+    color: #535353;
 }
 
 .banner .iq-phone, .banner .iq-mail {
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
     padding: 10px 20px;
     border-radius: 0 100px 100px 0;
     position: absolute;
@@ -750,7 +750,7 @@ How it Works
 -----------------------------------------------------------------------*/
 
 #how-it-works {
-    margin-top: 80px;
+    margin-top: 10px;
     position: relative;
 }
 
@@ -760,7 +760,7 @@ How it Works
 }
 
 #how-it-works .feature-box p {
-    color: #adadad;
+    color: #535353;
     font-size: 16px;
 }
 
@@ -774,8 +774,8 @@ How it Works
     height: 110px;
     margin: auto;
     position: relative;
-    background-color: #1f4fe0;
-    background-image: linear-gradient(-45deg, #002387 0%, #1f4fe0 100%);
+    background-color: #8343FF;
+    background-image: linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
     animation: one-animated 10s infinite;
@@ -862,24 +862,24 @@ About App
 .about-app {
     position: relative;
     overflow: hidden;
-    margin-top: 80px;
+    margin-top: 10px;
 }
 
 .about-app .about-after {
     position: absolute;
     left: 0;
-    top: 80px;
+    top: 10px;
 }
 
 .about-app .about-box .title {
     font-size: 50px;
     line-height: 60px;
     font-weight: bold;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 .about-app .about-box p {
-    color: #adadad;
+    color: #535353;
     font-size: 16px;
     line-height: 32px;
 }
@@ -887,7 +887,7 @@ About App
 .about-app .about-box p span {
     font-size: 44px;
     font-weight: 600;
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .about-app .circle {
@@ -921,13 +921,13 @@ Services
 -----------------------------------------------------------------------*/
 
 .services {
-    margin-top: 100px;
+    margin-top: 10px;
     position: relative;
     overflow: hidden;
 }
 
 .services .media {
-    padding-top: 50px;
+    padding-top: 10px;
     position: relative;
 }
 
@@ -936,7 +936,7 @@ Services
     right: 34px;
     top: 50px;
     content: "";
-    background: #0035BD;
+    background: #8343FF;
     height: 100%;
     width: 1px;
     z-index: -1;
@@ -952,11 +952,11 @@ Services
 }
 
 .services .media span {
-    background: #007bff;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #007bff 0%, #0035bd 100%);
-    background: linear-gradient(135deg, #007bff 0%, #0035bd 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
     width: 70px;
     height: 70px;
     text-align: center;
@@ -972,7 +972,7 @@ Services
 }
 
 .services .media p {
-    color: #adadad;
+    color: #535353;
     font-size: 16px;
     line-height: 24px;
 }
@@ -1046,7 +1046,7 @@ Team
 }
 
 .team .team-box .social-box a:hover i {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .team .team-box .team-content {
@@ -1106,11 +1106,11 @@ Team
 }
 
 .team .owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-    background: #0035BD;
+    background: #8343FF;
 }
 
 .team .owl-carousel.owl-theme .owl-dots .owl-dot.active span {
-    background: #0035BD;
+    background: #8343FF;
     height: 30px;
 }
 
@@ -1144,7 +1144,7 @@ Testimonials
 }
 
 .testimonials .owl-carousel.owl-theme .owl-dots .owl-dot.active span {
-    border: 4px solid #0035BD;
+    border: 4px solid #8343FF;
 }
 
 .testimonials .owl-carousel .owl-dots {
@@ -1335,11 +1335,11 @@ App Screenshots
 }
 
 .iq-app .iq-app-info {
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
 }
 
 .iq-app .icon-bg {
@@ -1350,8 +1350,8 @@ App Screenshots
     width: 700px;
     height: 700px;
     margin: auto;
-    background-color: #0035BD;
-    background-image: linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
+    background-color: #8343FF;
+    background-image: linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     animation: faq-animated 40s infinite;
     overflow: hidden;
@@ -1490,12 +1490,12 @@ Frequently Asked
 
 .faq {
     position: relative;
-    margin-top: 100px;
+    margin-top: 10px;
     overflow: hidden;
 }
 
 .faq #accordion .btn-link {
-    color: #007bff;
+    color: #8343FF;
     width: 100%;
     text-align: left;
     padding: 15px 30px;
@@ -1556,8 +1556,8 @@ Frequently Asked
     width: 700px;
     height: 700px;
     margin: auto;
-    background-color: #0035bd;
-    background-image: linear-gradient(-45deg, #fcfcfc 0%, #007bff 100%);
+    background-color: #8343FF;
+    background-image: linear-gradient(-45deg, #fcfcfc 0%, #8343FF 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     animation: faq-animated 40s infinite;
     overflow: hidden;
@@ -1631,7 +1631,7 @@ Pricing
 
 .pricing-box.active {
     box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.1);
-    border: 1px solid #0035BD;
+    border: 1px solid #8343FF;
 }
 
 .pricing-box .pricing-header {
@@ -1676,7 +1676,7 @@ Pricing
 }
 
 .pricing-box ul li.light {
-    color: #adadad;
+    color: #535353;
 }
 
 .pricing-box .pricing-footer {
@@ -1696,18 +1696,18 @@ Pricing
 
 .pricing .nav-pills .nav-link {
     border-radius: 100px;
-    color: #adadad;
+    color: #535353;
     padding: 10px 25px;
     float: left;
 }
 
 .pricing .nav-pills .nav-link.active, .pricing .nav-pills .show>.nav-link {
-    background: #0035BD;
+    background: #8343FF;
     color: #ffffff;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
   
 }
 
@@ -1743,8 +1743,8 @@ Pricing
     width: 450px;
     height: 320px;
     margin: auto;
-    background-color: #0035BD;
-    background-image: linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
+    background-color: #8343FF;
+    background-image: linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
     animation: pricing-animated 32s infinite;
     overflow: hidden;
@@ -1829,11 +1829,11 @@ Blog
 
 .blog-box ul li a {
     text-decoration: none;
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .blog-box ul li a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .blog-box.left {
@@ -1891,11 +1891,11 @@ Blog
 
 .silly_scrollbar::-webkit-scrollbar-thumb {
     border-radius: 10px;
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
 }
 
 .blog .circle {
@@ -1933,11 +1933,11 @@ Blog Detail
     margin-right: 8px;
     font-weight: 600;
     text-transform: capitalize;
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
 }
 
 .iq-blogdetailbox .iq-blogbox .iq-entry-title h5 {
@@ -1970,7 +1970,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .iq-blogbox .iq-detail-box .special-text i {
-    color: #0035BD;
+    color: #8343FF;
     font-size: 60px;
     position: absolute;
     left: 0;
@@ -2050,7 +2050,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .iq-sidebar-widget .iq-widget-search i:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 /*about-box*/
@@ -2085,7 +2085,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .iq-sidebar-widget ul.iq-tag li a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 /*popular post*/
@@ -2128,7 +2128,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .iq-sidebar-widget .post-blog a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .iq-blogdetailbox .iq-sidebar-widget .shop-price del {
@@ -2171,7 +2171,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .blog-commentbox .iq-comment-metadata a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 .iq-blogdetailbox .blog-commentbox .iq-comment-metadata a i {
@@ -2220,7 +2220,7 @@ Blog Detail
     position: absolute;
     padding: 5px 15px;
     background: none;
-    color: #0035BD !important;
+    color: #8343FF !important;
     text-decoration: none;
 }
 
@@ -2233,7 +2233,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .info-block {
-    background: #0035BD;
+    background: #8343FF;
     margin: 0 0 30px 0;
     padding: 30px;
 }
@@ -2295,7 +2295,7 @@ Blog Detail
 }
 
 .iq-blogdetailbox .blog-contact .contact-form .section-field input:focus, .blog-contact .contact-form .section-field.textarea textarea:focus {
-    border: 2px solid #0035BD;
+    border: 2px solid #8343FF;
     box-shadow: none;
     outline: none;
 }
@@ -2313,7 +2313,7 @@ Download
 ----------------------------------------------------------------------*/
 
 .download {
-    margin-top: 60px;
+    margin-top: 10px;
     padding: 60px 0;
     overflow: hidden;
 }
@@ -2328,7 +2328,7 @@ Download
 }
 
 .download .title-box {
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .download .title-box .sub-title {
@@ -2441,7 +2441,7 @@ footer .contact ul li a {
 }
 
 footer .contact ul li a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 /*Social Media*/
@@ -2466,7 +2466,7 @@ footer .media-box li a {
     line-height: 45px;
     font-size: 16px;
     color: #CCCFD3;
-    border: 2px solid #0035BD;
+    border: 2px solid #8343FF;
     background: transparent;
     border: 2px solid #dddddd;
     text-align: center;
@@ -2480,12 +2480,12 @@ footer .media-box li a i {
 }
 
 footer .media-box li a:hover {
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
-    border: 2px solid #0035BD;
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
+    border: 2px solid #8343FF;
     color: #ffffff;
 }
 
@@ -2495,12 +2495,12 @@ footer .footer-copyright {
 }
 
 footer .footer-copyright a {
-    color: #0035BD;
+    color: #8343FF;
     text-decoration: none;
 }
 
 footer .footer-copyright a:hover {
-    color: #0035BD;
+    color: #8343FF;
 }
 
 footer .circle {
@@ -2591,11 +2591,11 @@ Coming Soon
     width: 85px;
     height: 80px;
     box-shadow: 0 5px 10px rgba(0, 9, 128, 0.035), 0 7px 18px rgba(0, 9, 128, 0.05);
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
     padding: 8px 0 4px 0;
     margin: 15px;
     border-radius: .5rem;
@@ -2638,7 +2638,7 @@ Coming Soon
 
 .coming-soon .shadow-card {
   
-    border: 2px solid #0035BD;
+    border: 2px solid #8343FF;
 }
 
 .coming-soon .ui-card .header-card {
@@ -2652,7 +2652,7 @@ Coming Soon
 }
 
 .coming-soon .heading-text {
-    color: #0035BD;
+    color: #8343FF;
     font-size: 25px;
 }
 
@@ -2724,7 +2724,7 @@ Coming Soon
 }
 
 .coming-soon .btn-color {
-    background: #0035BD;
+    background: #8343FF;
 }
 
 .coming-soon .btn {
@@ -2779,18 +2779,18 @@ Coming Soon
     -moz-border-radius: 0px 100px 100px 0px;
     border-radius: 0px 100px 100px 0px;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-    background: #0035BD;
-    background: -moz-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: -webkit-linear-gradient(-45deg, #0035BD 0%, #0035BD 100%);
-    background: linear-gradient(135deg, #0035BD 0%, #0035BD 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0035BD', endColorstr='#0035BD', GradientType=1);
-    border: 2px solid #0035BD;
+    background: #8343FF;
+    background: -moz-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: -webkit-linear-gradient(-45deg, #8343FF 0%, #8343FF 100%);
+    background: linear-gradient(135deg, #8343FF 0%, #8343FF 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8343FF', endColorstr='#8343FF', GradientType=1);
+    border: 2px solid #8343FF;
 }
 
 .coming-soon .btn:hover {
     background: #ffffff;
-    border: 2px solid #0035BD;
-    color: #0035BD;
+    border: 2px solid #8343FF;
+    color: #8343FF;
 }
 
 .coming-soon .msg h4 {
@@ -2840,8 +2840,8 @@ Coming Soon
 }
 
 .coming-soon .media-box li a:hover {
-    background: #0035BD;
-    border-color: #0035BD;
+    background: #8343FF;
+    border-color: #8343FF;
     color: #ffffff;
 }
 
